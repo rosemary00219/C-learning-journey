@@ -1,0 +1,2 @@
+E:\Visual Studio project\结构体案例\Debug\结构体案例.exe
+E:\Visual Studio project\结构体案例\Debug\结构体案例.pdb

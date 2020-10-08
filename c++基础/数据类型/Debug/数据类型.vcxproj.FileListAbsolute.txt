@@ -1,0 +1,2 @@
+E:\Visual Studio project\数据类型\Debug\数据类型.exe
+E:\Visual Studio project\数据类型\Debug\数据类型.pdb

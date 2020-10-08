@@ -1,0 +1,2 @@
+E:\Visual Studio project\结构体定义和使用\Debug\结构体定义和使用.exe
+E:\Visual Studio project\结构体定义和使用\Debug\结构体定义和使用.pdb

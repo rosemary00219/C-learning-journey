@@ -1,0 +1,2 @@
+E:\Visual Studio project\三只小猪\Debug\三只小猪.exe
+E:\Visual Studio project\三只小猪\Debug\三只小猪.pdb

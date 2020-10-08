@@ -1,0 +1,2 @@
+E:\Visual Studio project\冒泡排序\Debug\冒泡排序.exe
+E:\Visual Studio project\冒泡排序\Debug\冒泡排序.pdb

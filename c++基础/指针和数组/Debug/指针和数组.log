@@ -1,0 +1,3 @@
+﻿  指针和数组.cpp
+E:\Visual Studio project\指针和数组\指针和数组.cpp(5,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  指针和数组.vcxproj -> E:\Visual Studio project\指针和数组\Debug\指针和数组.exe

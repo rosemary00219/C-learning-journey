@@ -1,0 +1,2 @@
+E:\Visual Studio project\水仙花数\Debug\水仙花数.exe
+E:\Visual Studio project\水仙花数\Debug\水仙花数.pdb

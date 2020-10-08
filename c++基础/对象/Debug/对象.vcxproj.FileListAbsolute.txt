@@ -1,0 +1,2 @@
+E:\Visual Studio project\对象\Debug\对象.exe
+E:\Visual Studio project\对象\Debug\对象.pdb

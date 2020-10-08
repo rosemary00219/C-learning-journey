@@ -1,0 +1,2 @@
+E:\Visual Studio project\指针和数组\Debug\指针和数组.exe
+E:\Visual Studio project\指针和数组\Debug\指针和数组.pdb
